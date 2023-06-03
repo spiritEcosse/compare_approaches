@@ -1,5 +1,5 @@
 """
-Before running this test , please run django with gunicorn, fastapi with unvicorn and aiohttp like in my video.
+Before running this test , please run django with gunicorn, fastapi with uvicorn and aiohttp like in my video.
 You can run this test or just run test_speed_of_frameworks.sh.
 """
 
