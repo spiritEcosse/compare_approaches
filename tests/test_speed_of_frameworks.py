@@ -1,6 +1,18 @@
 """
-Before running this test , please run django with gunicorn, fastapi with uvicorn and aiohttp like in my video.
+In this test we are going to compare speed of running django, fastapi and aiohttp.
+You can set up db queries to emulate real cases.
+If it's subject is interesting then I can add these emulations and create different video to check it.
+Also, I can add similar test to check other frameworks, let me know if it's interesting.
+
+If you know other interesting frameworks let me know in the comments
+then I can create different video to compare them all,
+I would appreciate it.
+
+Before running this test, please run django with gunicorn, fastapi with uvicorn and aiohttp like in my video,
+just activate virtualenv, install all packages and go to the aiohttp_project, django_project, fastapi_project and run it.
+
 You can run this test or just run test_speed_of_frameworks.sh.
+https://github.com/spiritEcosse/compare_approaches/blob/main/tests/test_speed_of_frameworks.py
 """
 
 import logging

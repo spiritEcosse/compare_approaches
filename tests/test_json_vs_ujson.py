@@ -1,3 +1,14 @@
+"""
+In this test we are going to compare speed of running json and ujson.
+
+If you know other interesting approaches let me know in the comments
+then I can create different video to compare them all
+I would appreciate it.
+
+
+https://github.com/spiritEcosse/compare_approaches/blob/main/tests/test_json_vs_ujson.py
+"""
+
 import timeit
 
 

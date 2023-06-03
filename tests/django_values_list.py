@@ -1,3 +1,7 @@
+"""
+It's coming ...
+"""
+
 # from unittest import TestCase
 #
 # # from django_project.blog.models import Blog
