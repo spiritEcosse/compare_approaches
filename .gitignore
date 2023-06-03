@@ -1,0 +1,15 @@
+**/__pycache__/**
+*.pyc
+.idea
+docs/*
+!docs/index.rst
+!docs/conf.py
+!docs/Makefile
+!docs/uml
+*.svg
+*.zip
+.coverage
+.DS_Store
+.env_prod
+.pytest_cache
+*.pdf

@@ -1,0 +1,16 @@
+pytest
+aiohttp
+requests
+django
+pytest-django
+gunicorn
+fastapi
+uvicorn[standard]
+psycopg2
+mashumaro
+aioboto3
+pytest-dotenv
+pdf2image
+pypdfium2
+ujson
+numba
