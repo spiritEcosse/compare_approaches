@@ -1,5 +1,5 @@
 """
-In this test we are going to compare speed of running sync and async approach to download.
+In this test I am going to compare speed of running sync and async approach to download.
 
 If you know different approaches let me know in the comments
 then I can create different video to compare them all,

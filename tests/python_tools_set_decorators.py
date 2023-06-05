@@ -1,5 +1,5 @@
 """
-In this test we are going to compare speed of running 'metaclass' to set a decorator and 'inspect' to set a decorator.
+In this test I am going to compare speed of running 'metaclass' to set a decorator and 'inspect' to set a decorator.
 
 If you know other interesting approaches let me know in the comments
 then I can create different video to compare them all,

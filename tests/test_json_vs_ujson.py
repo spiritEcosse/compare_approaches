@@ -1,5 +1,5 @@
 """
-In this test we are going to compare speed of running json and ujson.
+In this test I am going to compare speed of running json and ujson.
 
 If you know other interesting approaches let me know in the comments
 then I can create different video to compare them all
