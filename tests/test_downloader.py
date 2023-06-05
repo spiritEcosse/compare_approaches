@@ -1,8 +1,8 @@
 """
-In this test I am going to compare speed of running sync and async approach to download.
+In this test, I compare the synchronous and the asynchronous speed approach to download.
 
 If you know different approaches let me know in the comments
-then I can create different video to compare them all,
+then I can create other video to compare them all,
 I would appreciate it.
 
 https://github.com/spiritEcosse/compare_approaches/blob/main/tests/test_downloader.py

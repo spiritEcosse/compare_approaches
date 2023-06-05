@@ -1,8 +1,8 @@
 """
 In this test I am going check, how to recognize text from video.
 
-If you know other interesting approaches let me know in the comments
-then I can create different video to compare them all
+If you know other interesting approaches, let me know in the comments,
+then I can create other video to compare them all
 I would appreciate it.
 
 https://github.com/spiritEcosse/compare_approaches/blob/main/tests/test_text_recognising_on_video.py

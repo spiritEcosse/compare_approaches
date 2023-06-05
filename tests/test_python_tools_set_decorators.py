@@ -1,8 +1,8 @@
 """
-In this test I am going to compare speed of running 'metaclass' to set a decorator and 'inspect' to set a decorator.
+In this test, I am going to compare speed of running 'metaclass' to set a decorator and 'inspect' to set a decorator.
 
 If you know other interesting approaches let me know in the comments
-then I can create different video to compare them all,
+then I can create other video to compare them all,
 I would appreciate it.
 
 https://github.com/spiritEcosse/compare_approaches/blob/main/tests/python_tools_set_decorators.py
