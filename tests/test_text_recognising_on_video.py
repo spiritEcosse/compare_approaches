@@ -1,5 +1,5 @@
 """
-In this test I am going check, how to recognize text from video.
+In this test, I am going check, how to recognize text from video.
 
 If you know other interesting approaches, let me know in the comments,
 then I can create other video to compare them all
