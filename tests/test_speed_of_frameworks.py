@@ -1,8 +1,8 @@
 """
 In this test, I am going to compare speed of working django, fastapi and aiohttp.
 You can set up db queries to emulate real cases.
-If it's subject is interesting then I can add these emulations and create other video to check it.
-Also, I can add similar test to check other frameworks, let me know if it's interesting.
+If this subject is interesting, then I can add these emulations with db queries and create other video to check it.
+Also, I can add a similar test to check other frameworks, let me know if it's interesting.
 
 If you know other interesting frameworks let me know in the comments
 then I can create other video to compare them all,
