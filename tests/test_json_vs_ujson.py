@@ -1,7 +1,8 @@
 """
 In this test, I compare speed json and ujson speed approach.
 
-If you know other interesting approaches let me know in the comments
+Let me know in the comments
+which libraries you want to compare
 then I can create other video to compare them all
 I would appreciate it.
 
