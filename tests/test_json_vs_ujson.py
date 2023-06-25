@@ -1,5 +1,5 @@
 """
-In this test, I compare speed json and ujson speed approach.
+In this test, I compare speed json and ujson approach.
 
 Let me know in the comments
 which libraries you want to compare
